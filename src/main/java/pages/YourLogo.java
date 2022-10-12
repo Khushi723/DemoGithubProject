@@ -1,7 +1,6 @@
 package pages;
 
 import java.util.List;
-
 import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
