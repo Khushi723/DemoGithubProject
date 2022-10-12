@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import utils.WebElementExtensions;
+import util.WebElementExtensions;
 
 public class YourLogo {
 	public WebDriver driver;
